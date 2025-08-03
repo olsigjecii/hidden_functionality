@@ -1,4 +1,5 @@
-To Test:
+# Hidden functionality in Rust 🦀
+
 Ensure your Cargo.toml is correct (as per the previous correction with serde and serde_json).
 
 Save the combined src/main.rs file.
